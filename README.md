@@ -1,10 +1,6 @@
 # Three.js-boilerplate
 Simple Three.js boilerplate made with Vite, initialized with Scene, Light, Camera and simple Geometry with auto rotate. 
 
-# Three.js-boilerplate
-
-This repository includes a basic Three.js boilerplate made with Vite. 
-
 ## Installation
 
 Use the package manager [npm] to install all neccessary packages.
